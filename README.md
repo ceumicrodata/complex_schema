@@ -2,10 +2,10 @@ Parse Complex's schema from R_export.txt.xls
 
 Usage:
 
-    ```python
-    import complex_schema
-    tables = read_tables('R_export.txt.xls')
-    ```
+```python
+import complex_schema
+tables = read_tables('R_export.txt.xls')
+```
 
 The returned data is encoded in the following structures:
 
